@@ -1,0 +1,4 @@
+To use logGrepper service:
+1. start LogGrepper server by running logGrepper.main()
+2. run LogGrepperClient.main(), a terminal will pop up 
+3. follow the instructions on the terminal to use LogGrepper
